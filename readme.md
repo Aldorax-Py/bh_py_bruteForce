@@ -7,3 +7,4 @@
 3 - It should always compare the results from every part of the loop to the password stored.
 --
 4 - When the password has matched then print out the password
+--
